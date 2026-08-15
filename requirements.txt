@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+transformers
+accelerate
+sentence-transformers
+torch
+tensorflow
+streamlit
+pyngrok
+PyPDF2
+nltk
+matplotlib
+seaborn
+wordcloud
+kaggle
